@@ -1,3 +1,7 @@
 window.$docsify = {
-  name: 'Breakers Guild'
+  name: 'Breakers Guild',
+  coverpage: true,
+  onlyCover: true,
+  loadNavbar: true,
+  loadSidebar: true
 };
