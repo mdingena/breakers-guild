@@ -1,0 +1,16 @@
+{
+  "name": "breakers-guild",
+  "version": "1.0.0",
+  "description": "Home for ship-breakers of the 'verse.",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdingena/breakers-guild.git"
+  },
+  "author": "EVC-2918",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mdingena/breakers-guild/issues"
+  },
+  "homepage": "https://github.com/mdingena/breakers-guild#readme"
+}
