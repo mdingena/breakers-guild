@@ -3,5 +3,6 @@ window.$docsify = {
   coverpage: true,
   onlyCover: true,
   loadNavbar: true,
-  loadSidebar: true
+  loadSidebar: true,
+  subMaxLevel: 2
 };
