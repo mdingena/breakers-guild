@@ -2,7 +2,7 @@
 
 The **Breakers Guild** is an organisation of professional ship-breakers headquartered in Spider in the Cathcart system.
 
-> **Are you interested in salvaging? Affiliate today!**
+> **Are you interested in salvaging? Enroll today!**
 
-[Join us](https://robertsspaceindustries.com/orgs/BREAKER)
+[Enroll](https://robertsspaceindustries.com/orgs/BREAKER)
 [Explore the Guild](/manifesto)
