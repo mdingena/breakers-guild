@@ -1,4 +1,4 @@
-# Breakers Guild
+![Breakers Guild](_media/logo.png)
 
 The **Breakers Guild** is an organisation of professional ship-breakers headquartered in Spider in the Cathcart system.
 
