@@ -8,7 +8,7 @@ The **Intelligence** department's task is to gather information on viable source
 
 ## Operations
 
-At the heart of the Guild is the **Operations** department, which ensures the organisation's continuity by producing revenue and resources. They **provide live training scenarios** for aspirant breakers, **pursue lucrative [salvaging and repairing](/services?id=repair-amp-restoration) contracts**, and **respond to Search & Rescue incidents**.
+At the heart of the Guild is the **Operations** department, which ensures the organisation's continuity by producing revenue and resources. They **provide live training scenarios** for aspirant breakers, **pursue lucrative [salvaging](/services?id=salvage) and [repairing](/services?id=repair-amp-restoration) contracts**, and **respond to [search & rescue](/services?id=search-amp-rescue) incidents**.
 
 ## Discipline
 
