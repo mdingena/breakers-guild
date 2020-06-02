@@ -15,3 +15,5 @@ At the heart of the Guild is the **Operations** department, which ensures the or
 To some, ship-breaking is considered a form of art. The **Discipline** department monitors all activities related to the ship-breaking vocation. It defines and advocates the [Breaker's Code](/conduct/introduction), formalising the way the Guild expects breakers to accomplish their tasks.
 
 ## Security
+
+A small but vital department of the organisation, **Security** provides escort for our members and equipment. Considering its size, this department only escorts the Guild's internal operations.
