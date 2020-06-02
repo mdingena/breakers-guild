@@ -8,8 +8,9 @@
 
 <span class="sidebar-section-heading">Code of Conduct</span>
 
-* [Scraping](/conduct/scraping)
-* [Salvaging](/conduct/salvaging)
-* [Dismantling](/conduct/dismantling)
 * [Introduction](/conduct/introduction "Code of Conduct - Breakers Guild")
 * [Siphoning](/conduct/siphoning)
+* [Reclaiming](/conduct/reclaiming)
+* [Hull Scraping](/conduct/scraping)
+* [Dismantling](/conduct/dismantling)
+* [Towing](/conduct/towing)
