@@ -1,6 +1,6 @@
 # Manifesto
 
-**Breaking is hard.** Every day, ship-breakers face incredibly hazardous environments to perform their jobs. ...
+**Breaking is hard.** Every day, ship-breakers face incredibly hazardous environments to perform their jobs. Whether it's the cold void of space, toxic fumes, or lethal cutting equipment, breakers put their safety on the line for a sustainable future.
 
 **Breakers play an important role in the economy.** As boundless as the 'verse may seem, resources are precious and finite. It's vital to recycle and reuse these as much as possible. Breakers are able to grant your vehicles a second life by repairing them, salvaging their components, or extracting their raw materials.
 
