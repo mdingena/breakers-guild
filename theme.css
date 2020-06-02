@@ -44,6 +44,9 @@
   --heading-h4-border-style: none;
   --heading-h5-border-style: none;
   --heading-h6-border-style: none;
+  --link-text-decoration: none;
+  --link-color: var(--breakers-guild-color-gold-400);
+  --link-text-decoration--hover: underline;
 
   /* Cover */
   --cover-heading-font-weight: 700;
@@ -85,7 +88,7 @@
 }
 
 h1, h2, h3, h4, h5, h6 {
-  text-shadow: 0 1px 1px var(--breakers-guild-color-gold-700);
+  text-shadow: 0 2px 1px var(--breakers-guild-color-gold-700);
 }
 
 .sidebar-nav p {
@@ -100,4 +103,8 @@ h1, h2, h3, h4, h5, h6 {
 
 .sidebar-nav p:not(:first-of-type) {
   margin-top: 2rem;
+}
+
+.content li {
+  list-style-image: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='7' height='11.2' viewBox='0 0 7 11.2'><path d='M1.5 1.5l4 4.1 -4 4.1' stroke-width='1.5' stroke='%23ffca2a' fill='none' stroke-linecap='square' stroke-linejoin='miter' vector-effect='non-scaling-stroke'/></svg>");
 }
