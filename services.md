@@ -22,6 +22,8 @@ While our focus is on dismantling incapacitated vehicles, most breakers have a m
 
 ## Search & Rescue
 
+In rare situations the Guild performs **Search & Rescue** services. In almost all cases, this is a direct result of discovering surviving passengers onboard a vehicle originally designated for salvaging. **Guild breakers always prioritise lives over profit.**
+
 ## Breaker Yards
 
 ?> The Guild currently does not operate any breaker yards. Should you require a breaker's expertise, please visit one of the following affiliated breaker yards.
