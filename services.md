@@ -18,6 +18,8 @@ Our primary service is **salvaging** vehicles wrecked by the perils of deep spac
 
 While our focus is on dismantling incapacitated vehicles, most breakers have a mechanics background. Our **repair and restoration** service can restore your vehicles from various degrees of disrepair.
 
+[Contact us](https://robertsspaceindustries.com/spectrum/community/BREAKER) to request a quote.
+
 ## Search & Rescue
 
 ## Breaker Yards
