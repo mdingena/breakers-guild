@@ -14,3 +14,4 @@
 * [Hull Scraping](/conduct/scraping)
 * [Dismantling](/conduct/dismantling)
 * [Towing](/conduct/towing)
+* [Extricating](/conduct/extricating)
