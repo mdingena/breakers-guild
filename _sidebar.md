@@ -3,7 +3,7 @@
 * [Manifesto](/manifesto)
 * [Charter](/charter)
 * [History](/history)
-* [Hierarchy](/hierarchy)
+* [Organisation](/organisation)
 * [Services](/services)
 
 <span class="sidebar-section-heading">Code of Conduct</span>
