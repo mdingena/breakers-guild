@@ -2,9 +2,13 @@
 
 The Breakers Guild represents both member and affiliate ship-breakers. Contracts will be dealt with on a per-case basis, but while the Guild has skilled members, realistically most contracts are fulfilled by its affiliates.
 
+## Certification
+
+The Guild oversees a range of [breaker certification degrees](/certification) to ensure safe execution of salvaging operations. [Enroll today to become certified!](https://robertsspaceindustries.com/orgs/BREAKER)
+
 ## Salvage
 
-Our primary service is **salvaging** vehicles wrecked by the perils of deep space. This includes:
+Our primary commercial service is **salvaging** vehicles wrecked by the perils of deep space. This includes:
 
 * towing immobilised vehicles
 * siphoning fuel, oxygen and water
