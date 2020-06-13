@@ -5,6 +5,7 @@
 * [History](/history)
 * [Organisation](/organisation)
 * [Services](/services)
+* [Certification](/certification)
 
 <span class="sidebar-section-heading">Code of Conduct</span>
 
