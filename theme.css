@@ -105,6 +105,6 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 2rem;
 }
 
-.content li {
+.content ul li {
   list-style-image: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='7' height='11.2' viewBox='0 0 7 11.2'><path d='M1.5 1.5l4 4.1 -4 4.1' stroke-width='1.5' stroke='%23ffca2a' fill='none' stroke-linecap='square' stroke-linejoin='miter' vector-effect='non-scaling-stroke'/></svg>");
 }
