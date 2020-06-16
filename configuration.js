@@ -6,5 +6,8 @@ window.$docsify = {
   onlyCover: true,
   loadNavbar: true,
   loadSidebar: true,
-  subMaxLevel: 2
+  subMaxLevel: 2,
+  themeable: {
+    responsiveTables: false
+  }
 };
