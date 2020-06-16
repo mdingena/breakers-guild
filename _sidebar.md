@@ -1,11 +1,9 @@
 <span class="sidebar-section-heading">Guild Information</span>
 
-* [Manifesto](/manifesto)
-* [Charter](/charter)
-* [History](/history)
-* [Organisation](/organisation)
+* [About the Guild](/about)
 * [Services](/services)
 * [Certification](/certification)
+* [Organisation](/organisation)
 
 <span class="sidebar-section-heading">Code of Conduct</span>
 

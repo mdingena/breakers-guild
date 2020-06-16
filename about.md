@@ -1,4 +1,10 @@
-# Manifesto
+# The Breakers Guild
+
+> **We help breakers across the 'verse execute their vocation with pride, precision and efficiency.**
+> 
+> **It is our mission to provide breakers with essential salvaging knowledge and equipment.**
+
+## Manifesto
 
 **Breaking is hard.** Every day, ship-breakers face incredibly hazardous environments performing their job. Whether it's the cold void of space, toxic fumes, or lethal cutting equipment, breakers put their safety on the line for a sustainable future.
 
@@ -8,6 +14,10 @@
 
 **The Breakers Guild is an institution operated by and for ship-breakers.** It's an academy to guide aspiring breakers, and a labour union for providing mutual aid and protection and for dealing collectively with employers.
 
-> **We help breakers across the 'verse execute their vocation with pride, precision and efficiency.**
-> 
-> **It is our mission to provide breakers with essential salvaging knowledge and equipment.**
+## Charter
+
+!> This section is currently under construction.
+
+## History
+
+!> This section is currently under construction.
