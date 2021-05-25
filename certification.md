@@ -8,7 +8,7 @@ Anyone with the financial means can get their hands on the tools of the trade, b
 
 The Guild recognises six  **Certificate Tiers**, each with an increasing number of permissions and responsibilities which are described in their respective sections below. There are some regulations that apply across the board:
 
-* **Tier 0 is considered Uncertified** — the Guild denies all permissions for Dilettantes, **with the notable exception of [Extrication](/conduct/extricating)**. Saving the lives of stranded crew always comes before profit.
+* **Tier 0 is considered Uncertified** — the Guild denies all permissions for Dilettantes, **with the notable exception of [Extrication](/conduct/extricating)**. _Saving the lives of injured stranded crew always comes first._
 * **All other tiers** are allowed to perform **Hull Scraping** operations.
 
 Apart from these blanket statements, the Guild authorises each tier as follows: 
