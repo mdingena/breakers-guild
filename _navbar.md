@@ -1,2 +1,2 @@
-* [Enroll](https://robertsspaceindustries.com/orgs/BREAKER)
+* [Register](https://robertsspaceindustries.com/orgs/BREAKER)
 * [Forum](https://robertsspaceindustries.com/spectrum/community/BREAKER)
