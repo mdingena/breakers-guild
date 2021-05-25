@@ -15,7 +15,7 @@ Apart from these blanket statements, the Guild authorises each tier as follows:
 
 ### 0—Dilettante
 
-When someone enrolls in the Guild to become a breaker, they are classified as a **Dilettante**: an appreciator of the ship-breaking vocation. The Guild regularly organises training events to help these newcomers get certified.
+When someone registers with the Guild to become a breaker, they are classified as a **Dilettante**: an appreciator of the ship-breaking vocation. The Guild regularly organises training events to help these newcomers get certified.
 
 * Dilettantes are not permitted to perform **any** operations as laid out in the [Breakers Code](/conduct/introduction), with the **notable exception of Extrication**.
 

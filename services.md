@@ -4,7 +4,7 @@ The Breakers Guild represents both member and affiliate ship-breakers. Contracts
 
 ## Certification
 
-The Guild oversees a range of [breaker certification degrees](/certification) to ensure safe execution of salvaging operations. [Enroll today to become certified!](https://robertsspaceindustries.com/orgs/BREAKER)
+The Guild oversees a range of [breaker certification degrees](/certification) to ensure safe execution of salvaging operations. [Register today to become certified!](https://robertsspaceindustries.com/orgs/BREAKER)
 
 ## Salvage
 
